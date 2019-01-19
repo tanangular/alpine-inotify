@@ -1,1 +1,1 @@
-alpine-notify
+Alpine with inotify and ca-certificates docker image
